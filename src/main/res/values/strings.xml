@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MC Optimizer</string>
+    <string name="status_wakelock">Adquiriendo WakeLock...</string>
+    <string name="status_ram">Limpiando procesos de fondo...</string>
+    <string name="ram_cleared_format">Procesos cerrados: %d</string>
+    <string name="status_gamemode">Configurando modo de juego...</string>
+</resources>
