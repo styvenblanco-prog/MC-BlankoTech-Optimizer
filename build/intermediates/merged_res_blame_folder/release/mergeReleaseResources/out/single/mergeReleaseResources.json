@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.blankotech.optimizer-release-47:/mipmap-xxxhdpi_ic_launcher.xml.flat",
+        "source": "com.blankotech.optimizer-main-48:/mipmap-xxxhdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.blankotech.optimizer-release-47:/mipmap-xxxhdpi_ic_launcher_round.xml.flat",
+        "source": "com.blankotech.optimizer-main-48:/mipmap-xxxhdpi/ic_launcher_round.xml"
+    }
+]

@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.blankotech.optimizer-mergeReleaseResources-45:/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/home/codespace/.gradle/caches/9.4.0/transforms/c79e009e733cc0cf4d9e2f8a9e3dc488/transformed/appcompat-1.6.1/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}

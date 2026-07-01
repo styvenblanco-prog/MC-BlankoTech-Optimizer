@@ -1,0 +1,16 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_500
+color purple_700
+color red_200
+color teal_200
+color teal_700
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string ram_cleared_format
+string status_gamemode
+string status_ram
+string status_wakelock
+style Theme.MyApplication
